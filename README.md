@@ -5,7 +5,7 @@ It connects to the backend API (FastAPI) and provides a user-friendly way to vie
 
 ---
 
-## 🚀 Features
+## Features
 - **Sensor Alerts**
   - List all alerts from `sensor_alerts` table
   - Delete alert entries from the interface
@@ -18,7 +18,7 @@ It connects to the backend API (FastAPI) and provides a user-friendly way to vie
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 next-ui/
 ├── app/
@@ -34,13 +34,13 @@ next-ui/
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 - Node.js (>= 18)
 - npm or yarn
 
 ---
 
-## 🛠️ Installation & Running
+## Installation & Running
 1. Clone the repository:
    ```bash
    git clone https://github.com/aliefecakir/ReactNextjsUI.git
@@ -64,7 +64,7 @@ next-ui/
 
 ---
 
-## 🔗 API Connection
+## API Connection
 This frontend communicates with the **FastAPI backend**.  
 Set the API URL in `.env.local`:
 
@@ -74,7 +74,7 @@ NEXT_PUBLIC_API_URL=http://127.0.0.1:8000
 
 ---
 
-## 📸 Preview
+## Preview
 - **Sensor Alerts Tab**
   - Shows alert list with delete option
 - **Sensor Activity Tab**
@@ -82,5 +82,5 @@ NEXT_PUBLIC_API_URL=http://127.0.0.1:8000
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License.
